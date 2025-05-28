@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "7dfa7c64eef130f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ded24acf4488c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb0e10c389e6589",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "208620fc579db5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utvikling/How To make a website..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How To make a website."
+            }
+          },
+          {
+            "id": "2f9e6c875f5d9841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utvikling/How To make a website..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How To make a website."
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "274f5e3caf5b7f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fafd46bb1b179cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a19dac24aa7b6d3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1108db3dd718e088",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8915d91867a972a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f17f9d4492a2c648",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11c013f0e5fbe43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ce185ce2799be5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Utvikling/How To make a website..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How To make a website."
+            }
+          },
+          {
+            "id": "d6a3768674149184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Utvikling/How To make a website..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How To make a website."
+            }
+          },
+          {
+            "id": "be48fe4d5a2ad71a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec4849b3ba0f4510",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Utvikling/How To make a website..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How To make a website."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f9e6c875f5d9841",
+  "lastOpenFiles": [
+    "Driftstoote/Cisco PT/Cisco_PT_Regular.md",
+    "Driftstoote/Cisco PT/Cisco_PT_Routing.md",
+    "Driftstoote/Cisco PT/Cisco packettracer.md",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server serious.md",
+    "Driftstoote/Virtualbox nonsense/Windows server/how to change an ip address in windows server 2025.md",
+    "Utvikling/How To make a website..md",
+    "Driftstoote/Cisco PT",
+    "Driftstoote/Driftstoote Index.md",
+    "Utvikling",
+    "Pasted image 20250522114809.png",
+    "Pasted image 20250522114558.png",
+    "pasted shit.md",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server PNGS/serverManagerPointingAtIPAddress.png",
+    "Pasted image 20250522113947.png",
+    "Driftstoote/Virtualbox nonsense/Bridged adapter 1 example.png",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server PNGS/Server manager Local Server arrow.png",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server PNGS",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server PNGS/Server Setup Partitions.png",
+    "Driftstoote/Nettverk.md",
+    "Driftstoote/Virtualbox nonsense/Windows_11.iso.md",
+    "Driftstoote/Virtualbox nonsense/Windows_server.iso.md",
+    "Driftstoote/Virtualbox nonsense/opnsense.md",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server simple.md",
+    "Driftstoote/Virtualbox nonsense/Windows server/windows server product key.md",
+    "Driftstoote/Virtualbox nonsense/Virtualbox nonsense.md",
+    "Driftstoote/Virtualbox nonsense/isos.md",
+    "Driftstoote/Virtualbox nonsense/Windows server/Windows server PNGS/New virtual machine.png",
+    "Driftstoote/Virtualbox nonsense/Windows server",
+    "Driftstoote/Virtualbox nonsense",
+    "Driftstoote/Drift.md",
+    "Driftstoote/Risiskovurdering.md",
+    "Untitled.canvas",
+    "2025-05-22.md",
+    "Driftstoote",
+    "Statisk ip adresse.md",
+    "Welcome.md"
+  ]
+}

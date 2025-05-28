@@ -1,0 +1,1 @@
+https://www.microsoft.com/nb-no/software-download/windows11
