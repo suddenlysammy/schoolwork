@@ -1,4 +1,5 @@
 import { type PageProps } from "$fresh/server.ts";
+import { Menue } from "../components/Menue.tsx";
 export default function App({ Component }: PageProps) {
   return (
     <html>
@@ -8,7 +9,8 @@ export default function App({ Component }: PageProps) {
         <title>Exam-Template</title>
         <link rel="stylesheet" href="/styles.css" />
       </head>
-      <body>
+      <body class="bg-gray-200">
+        <Menue />
         <Component />
       </body>
     </html>
