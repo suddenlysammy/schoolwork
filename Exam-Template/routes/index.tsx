@@ -1,10 +1,14 @@
-import { useSignal } from "@preact/signals";
-import Counter from "../islands/Counter.tsx";
-import { Menue } from "../components/Menue.tsx";
-
 export default function Home() {
-  const count = useSignal(26);
   return (
-    <Menue></Menue>
+    <div class="content">
+      <h1 class="title is-size-1">Utviklerne AS</h1>
+      <p>Lag en konto og log in for bistand!</p>
+      <a href="/signup">
+        <p class="is-size-2" href="/Signup">Signup</p> 
+      </a>
+      <a href="/login">
+        <p class="is-size-2" href="/login">Login</p>
+      </a>
+    </div>
   );
 }
